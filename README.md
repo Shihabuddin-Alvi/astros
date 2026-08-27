@@ -7,3 +7,5 @@ Python, NumPy, pandas, scikit-learn.
 Notes
 
 Full course notes (definitions, term explanations, code breakdowns) are kept separately. This repo holds the working code only.
+Part 1 Data PreProcessing
+Part 2 Simple Linear Regression
